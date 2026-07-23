@@ -1,10 +1,12 @@
 # ⚡ Meccha FPS Boost — Optimization Tool 2026
+<div align="center">
+<img width="680" height="380" alt="image" src="https://github.com/user-attachments/assets/86170aac-f572-4622-9f4b-4e5cc93634c1" />
 
 **Performance Optimizer · FPS Boost · System Tuning · Game Enhancer for MECCHA CHAMELEON**
 
 ---
 
-<div align="center">
+
 
 ## 📥 Download
 
